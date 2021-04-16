@@ -1,5 +1,9 @@
 # Regular Expressions:
 [Texto estudiado, en el cual es sacada toda la información](https://docs.python.org/3/library/re.html)
+[Google for Education 'Regular Expressions'](https://developers.google.com/edu/python/regular-expressions)
+
+* Sin desprestigiar el texto que mas me ayudo para entender la logica:
+[Taller 12 Web Scraping](https://colab.research.google.com/drive/1AGJCOCuo2jxu0bGbKavuJooIOKnW_oNz?usp=sharing)
 
 ## 1. Introducción a las expresiones regulares:
 
