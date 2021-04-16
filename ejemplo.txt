@@ -1,0 +1,8 @@
+101 COM Computadoras 
+205 MAT Matemáticas 
+189 ENG Inglés
+201 PRO Programación
+653 EST Estadística
+234 CMUL Multivaribale
+934 PROB Probabilidad
+236 INF Inferencia
